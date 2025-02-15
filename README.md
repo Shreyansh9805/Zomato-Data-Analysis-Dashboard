@@ -6,7 +6,7 @@
 
 🖥️<a href="https://app.powerbi.com/links/wc5gT9PGbl?ctid=49674e50-85af-4f8d-973a-02b51c2f5005&pbi_source=linkShare" >View my Dashboard</a>
 
-![image]([https://github.com/DishaK06/Complete-Corner-Store-Sales-Analysis/assets/90857620/f0562e8d-f66a-4ddf-87fd-f8032955d115](https://github.com/Shreyansh9805/Zomato-Data-Analysis-Dashboard/blob/main/Dashboard.png))
+![image](Dashboard.png)
 
 ## Summary
 This Power BI Dashboard provides an interactive view of Zomato's restaurant data, allowing users to explore and analyze various aspects of the restaurant industry by interacting with different sections of the dashboard. The visualization highlights key metrics such as average cost for two, restaurant ratings, popular cuisines, and delivery options across 9,545 restaurants in 15 countries and 141 cities.
